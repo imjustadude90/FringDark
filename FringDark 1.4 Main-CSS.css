@@ -2644,6 +2644,12 @@ ul.report-reasons {
 .linklisting>.comment:not(:first-child) {
     padding: 8px
 }
+.profile-page  .trophy-name {
+  color: white!important;
+}
+.profile-page  .trophy-description {
+  color: #999;
+}
 .profile-page .comment,
 .content .details {
     padding: 10px 10px 10px 8px
