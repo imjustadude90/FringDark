@@ -526,12 +526,12 @@ h1.redditname, .profile-page div.side>div:nth-child(1)>.titlebox h1, .res-nightm
 .side .titlebox .md h3 a:hover{opacity:0.9;}
 .res-nightmode .side .titlebox .md h3 a {
     background-color: #0490C4!Important;
-    -webkit-box-shadow: 0px 4px 0px #0782AF;
-    -moz-box-shadow: 0px 4px 0px #0782AF;
-    box-shadow: 0px 4px 0px #0782AF;
+    -webkit-box-shadow: 0px 3px 0px #0782AF;
+    -moz-box-shadow: 0px 3px 0px #0782AF;
+    box-shadow: 0px 3px 0px #0782AF;
 }
 .res-nightmode .side .titlebox .md h3 a:active {
-    box-shadow: 0px 1px 0px #0782AF;
+    box-shadow: 0px 0px 0px;
 }
 .side .titlebox .md h3 a:after {
     content: "";
@@ -547,7 +547,7 @@ h1.redditname, .profile-page div.side>div:nth-child(1)>.titlebox h1, .res-nightm
 .side .titlebox .md h3 a:active {
     transform: translate(0px, 3px);
     -webkit-transform: translate(0px, 3px);
-    box-shadow: 0px 1px 0px 0px;
+    box-shadow: 0px 0px 0px ;
 }
 /**End H3 Button**/
 .titlebox .fancy-toggle-button {
@@ -790,7 +790,6 @@ body:not(.res) .titlebox .fancy-toggle-button {
 .side div.morelink:active {
     transform: translate(0px, 3px);
     -webkit-transform: translate(0px, 3px);
-    box-shadow: 0px 1px 0px 0px;
     -webkit-box-shadow: 0px 1px 0px;
     -moz-box-shadow: 0px 1px 0px;
     box-shadow: 0px 1px 0px;
