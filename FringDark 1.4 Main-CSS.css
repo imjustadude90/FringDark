@@ -140,6 +140,25 @@ a {
 .sr-bar a.gold {
     color: #e5c100!Important;
 }
+/*RES Subreddit Table*/
+.res #srList{
+  box-shadow: 0 6px 12px rgba(0,0,0,0.8)!Important;
+  border-radius: 0px 0px 5px 5px!Important;
+  background-color: #191919!Important;
+}
+.res #srList td a{
+	color:#BEBEBE!Important;
+}
+.res #srList td a:hover{
+	color:#fff!Important;
+}
+.res #srList tr{
+	border-bottom: 1px solid rgba(39,39,39,1)!Important;
+}
+.res #srList tr:hover{
+	background-color:#121212!Important;
+	color:#fff!Important;
+}
 /** Main Header Area **/
 
 #header {
