@@ -518,20 +518,20 @@ h1.redditname, .profile-page div.side>div:nth-child(1)>.titlebox h1, .res-nightm
     position: relative;
     display: block;
     margin: 0 auto;
-    background-color: #FF7247;
-    -webkit-box-shadow: 0px 3px 0px #D75A41;
-    -moz-box-shadow: 0px 3px 0px #D75A41;
-    box-shadow: 0px 3px 0px #D75A41;
+    background-color: #0490C4;
+    -webkit-box-shadow: 0px 3px 0px #0782AF;
+    -moz-box-shadow: 0px 3px 0px #0782AF;
+    box-shadow: 0px 3px 0px #0782AF;
 }
 .side .titlebox .md h3 a:hover{opacity:0.9;}
 .res-nightmode .side .titlebox .md h3 a {
-    background-color: #202020!Important;
-    -webkit-box-shadow: 0px 4px 0px #333;
-    -moz-box-shadow: 0px 4px 0px #333;
-    box-shadow: 0px 4px 0px #333;
+    background-color: #0490C4!Important;
+    -webkit-box-shadow: 0px 4px 0px #0782AF;
+    -moz-box-shadow: 0px 4px 0px #0782AF;
+    box-shadow: 0px 4px 0px #0782AF;
 }
 .res-nightmode .side .titlebox .md h3 a:active {
-    box-shadow: 0px 1px 0px #333;
+    box-shadow: 0px 1px 0px #0782AF;
 }
 .side .titlebox .md h3 a:after {
     content: "";
