@@ -2,7 +2,7 @@
 FringDark
 ===============
 
-FringDark is a reddit theme that anyone can use for their subreddit or use as their reddit theme. See [/r/FringDark](http://www.reddit.com/r/Fring/) on reddit for a preview.
+FringDark is a reddit theme that anyone can use for their subreddit or use as their reddit theme. See [/r/FringDark](http://www.reddit.com/r/FringDark/) on reddit for a preview.
 
 How to install the theme. 
 ===============
