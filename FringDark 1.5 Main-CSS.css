@@ -1430,10 +1430,6 @@ div.titlebox>div.bottom>span.flair{display:none;}
     padding: 10px 10px 10px 8px;
     margin: 0 0 5px 0;
 }
-.res-nightmode .commentarea .thing {
-    background-color: #161616!Important;
-    border: 0px!Important;
-}
 .commentarea .child .thing {
     box-shadow: none;
     padding: 2px;
