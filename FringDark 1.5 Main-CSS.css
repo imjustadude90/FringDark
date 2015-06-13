@@ -49,16 +49,13 @@ a {
 /** SR Header Area **/
 #sr-header-area, .res-nightmode #sr-header-area {
     border-bottom: 0px solid #adadad;
-	background-color: rgba(0, 0, 0, 0.1);
+	background-color: rgba(0, 0, 0, 0.1)!important;
     height: 22px;
     line-height: 22px;
+	transition: all 0.15s ease;
 }
 #sr-header-area:hover, .res-nightmode #sr-header-area:hover{
-	background-color: rgba(0, 0, 0, 0.4);
-	-webkit-transition: all 0.15s ease;
-	-moz-transition: all 0.15s ease;
-	-o-transition: all 0.15s ease;
-	transition: all 0.15s ease;
+	background-color: rgba(0, 0, 0, 0.4)!important;
 }
 #sr-header-area .width-clip {
     right: 50px;
