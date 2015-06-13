@@ -226,18 +226,15 @@ a {
     position: absolute;
     right: 0px;
     border-top-left-radius: 7px;
-	background-color: rgba(0, 0, 0, 0.1);
+	background-color: rgba(0, 0, 0, 0.1)!important;
 	line-height: 20px;
 	height: 20px!important;
 	padding-left: 10px;
 	min-width:14px;
+	transition: all 0.15s ease;
 }
 #header-bottom-right:hover, .res-nightmode #header-bottom-right:hover{
-	background-color: rgba(0, 0, 0, 0.4);
-	-webkit-transition: all 0.15s ease;
-	-moz-transition: all 0.15s ease;
-	-o-transition: all 0.15s ease;
-	transition: all 0.15s ease;
+	background-color: rgba(0, 0, 0, 0.4)!important;	
 }
 .res-navTop #header-bottom-right {top:22px!Important;}
 .res-nightmode #header-bottom-right {
